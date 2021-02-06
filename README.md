@@ -10,6 +10,9 @@ Clone the Repository by Typing
 git clone https://github.com/Jonathan3209/Movies_App
 ```
 ```
+cd Movies_App
+```
+```
 git fetch
 ```
 
