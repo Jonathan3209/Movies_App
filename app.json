@@ -1,0 +1,12 @@
+{
+  "name": "TMDB",
+  "displayName": "TMDB",
+  "expo": {
+    "name": "TMDB",
+    "slug": "TMDB",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

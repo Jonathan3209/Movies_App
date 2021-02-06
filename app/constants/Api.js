@@ -1,0 +1,16 @@
+export default {
+    BASE_URL: 'https://api.themoviedb.org/3',
+    MOVIE: 'movie',
+    SEARCH: 'search',
+    POPULAR: 'popular',
+    NOW_PLAYING: 'now_playing',
+    UPCOMING: 'upcoming',
+    API_KEY: 'cfaa5cf2a0d4201a66f22e1058f0e885',
+    LANGUAGE: 'en-US',
+    AMOUNT_OF_PAGES: '1',
+    IMAGE_BASE_URL: 'https://image.tmdb.org/t/p/w500',
+    GET_POPULAR_MOVIES: 'GET_POPULAR_MOVIES',
+    GET_NOW_PLAYING_MOVIES: 'GET_NOW_PLAYING_MOVIES',
+    GET_UPCOMING_MOVIES: 'GET_UPCOMING_MOVIES',
+    SEARCH_FOR_MOVIES: 'SEARCH_FOR_MOVIES',
+}
