@@ -1,6 +1,7 @@
-# Movies database app - Movies_App
+# Movies_App - Movies database app 
 
 The app shows information related to movies, and enables to manage multiple favorite watchlists.
+This app is built in React-Native Framework.
 
 ## Getting Started
 
